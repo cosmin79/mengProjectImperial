@@ -1,0 +1,6442 @@
+[
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2172
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 52,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 50923
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50610
+                }
+            ],
+            "read": 493,
+            "write": 1419
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 1117
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2147
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 81,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25298
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 27239
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 26585
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26081
+                }
+            ],
+            "read": 446,
+            "write": 945
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 578
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2120
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 108,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12626
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12686
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14255
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13644
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 13597
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 12845
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12803
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 15500
+                }
+            ],
+            "read": 448,
+            "write": 1244
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 306
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2163
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 139,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6481
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 8536
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7230
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6521
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 6693
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 7605
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6305
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7104
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6418
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6407
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 9425
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7235
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 7191
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 6704
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 6920
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 8851
+                }
+            ],
+            "read": 473,
+            "write": 1136
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 228
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2213
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 51,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 50923
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50610
+                }
+            ],
+            "read": 482,
+            "write": 1511
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 1199
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2248
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 79,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25298
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 27239
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 26585
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26081
+                }
+            ],
+            "read": 473,
+            "write": 938
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 600
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2154
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 109,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12626
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13644
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12686
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14255
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 12845
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 13597
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 15500
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12803
+                }
+            ],
+            "read": 478,
+            "write": 1016
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 329
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2158
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 140,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6481
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6521
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7230
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 8536
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 6693
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6305
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 7605
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7104
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6418
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6407
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 9425
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7235
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 7191
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 6704
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 6920
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 8851
+                }
+            ],
+            "read": 455,
+            "write": 1135
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 219
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2163
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 53,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 50923
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50610
+                }
+            ],
+            "read": 738,
+            "write": 1674
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 1164
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2151
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 83,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25298
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 26585
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 27239
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26081
+                }
+            ],
+            "read": 444,
+            "write": 883
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 572
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2226
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 109,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12626
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14255
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13644
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12686
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 12845
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 13597
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 15500
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12803
+                }
+            ],
+            "read": 458,
+            "write": 1019
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 395
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2174
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 137,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6481
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 8536
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6521
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7230
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 6693
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6305
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 7605
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7104
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6407
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6418
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 9425
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7235
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 7191
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 6704
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 6920
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 8851
+                }
+            ],
+            "read": 425,
+            "write": 931
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 212
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2223
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 52,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 50923
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50610
+                }
+            ],
+            "read": 477,
+            "write": 1596
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 1221
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2224
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 81,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25298
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 27239
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 26585
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26081
+                }
+            ],
+            "read": 459,
+            "write": 1140
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 648
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2162
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 109,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12626
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12686
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14255
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13644
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 12845
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 13597
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12803
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 15500
+                }
+            ],
+            "read": 432,
+            "write": 774
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 329
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2112
+        },
+        "eps": 1000.0,
+        "inputSplit": {
+            "gen": 139,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6481
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7230
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6521
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 8536
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 6693
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 7605
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6305
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7104
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6418
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6407
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 9425
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7235
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 7191
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 6704
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 6920
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 8851
+                }
+            ],
+            "read": 405,
+            "write": 813
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 201
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 12,
+            "runtime": 3001
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 51,
+            "partitions": [
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50680
+                },
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51265
+                }
+            ],
+            "read": 442,
+            "write": 928
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 1569
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 12,
+            "runtime": 2996
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 80,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25426
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26446
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 27764
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 26907
+                }
+            ],
+            "read": 433,
+            "write": 659
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 810
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 12,
+            "runtime": 2994
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 111,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12721
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12716
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14626
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13761
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 12973
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14051
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12882
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 16599
+                }
+            ],
+            "read": 463,
+            "write": 1058
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 454
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 12,
+            "runtime": 2988
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 141,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6514
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9059
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6641
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7352
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 6883
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6318
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 7952
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7281
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6520
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6443
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 10876
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7501
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 6877
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 7538
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7052
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 9383
+                }
+            ],
+            "read": 454,
+            "write": 888
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 252
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 3005
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 52,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51265
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50680
+                }
+            ],
+            "read": 462,
+            "write": 1147
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 1601
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 3072
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 80,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25426
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26446
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 27764
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 26907
+                }
+            ],
+            "read": 438,
+            "write": 681
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 818
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 3034
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 110,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12721
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14626
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13761
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12716
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 12973
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14051
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 16599
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12882
+                }
+            ],
+            "read": 410,
+            "write": 773
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 432
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2978
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 138,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6514
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7352
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6641
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9059
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 6883
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6318
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 7952
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7281
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6443
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6520
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 10876
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7501
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 6877
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 7538
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7052
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 9383
+                }
+            ],
+            "read": 415,
+            "write": 828
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 256
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 3056
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 54,
+            "partitions": [
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50680
+                },
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51265
+                }
+            ],
+            "read": 471,
+            "write": 1008
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 1588
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2989
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 82,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25426
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 27764
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26446
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 26907
+                }
+            ],
+            "read": 447,
+            "write": 665
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 824
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2974
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 111,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12721
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13761
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12716
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14626
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 12973
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 16599
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14051
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12882
+                }
+            ],
+            "read": 416,
+            "write": 689
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 425
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2989
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 142,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6514
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6641
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9059
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7352
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 6883
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6318
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 7952
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7281
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6520
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6443
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 10876
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7501
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 7538
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 6877
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7052
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 9383
+                }
+            ],
+            "read": 461,
+            "write": 926
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 279
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 2980
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 53,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51265
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50680
+                }
+            ],
+            "read": 406,
+            "write": 951
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 1580
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 3022
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 82,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25426
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26446
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 27764
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 26907
+                }
+            ],
+            "read": 421,
+            "write": 682
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 854
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 3000
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 111,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12721
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14626
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12716
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13761
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 12973
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14051
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12882
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 16599
+                }
+            ],
+            "read": 428,
+            "write": 884
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 435
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 0,
+            "runtime": 3048
+        },
+        "eps": 2000.0,
+        "inputSplit": {
+            "gen": 140,
+            "partitions": [
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6641
+                },
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6514
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9059
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7352
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6318
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 6883
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 7952
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7281
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6520
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6443
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 10876
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7501
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 7538
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 6877
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7052
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 9383
+                }
+            ],
+            "read": 445,
+            "write": 860
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 259
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 6492,
+            "runtime": 4817
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 52,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51702
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50722
+                }
+            ],
+            "read": 446,
+            "write": 1118
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 307,
+            "parallelRuntime": 2500
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 6492,
+            "runtime": 4725
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 80,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25572
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 28151
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 27130
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26894
+                }
+            ],
+            "read": 459,
+            "write": 696
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 1051,
+            "parallelRuntime": 1237
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 6492,
+            "runtime": 4739
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 110,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12865
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12761
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14881
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13881
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14657
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13120
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 17808
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12941
+                }
+            ],
+            "read": 429,
+            "write": 708
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 1484,
+            "parallelRuntime": 650
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 6492,
+            "runtime": 4699
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 138,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6536
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7420
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6849
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9468
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7121
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6399
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 8401
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7393
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6463
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6689
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 12827
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7724
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7055
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8000
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7143
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 9791
+                }
+            ],
+            "read": 414,
+            "write": 983
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 2975,
+            "parallelRuntime": 541
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 1503,
+            "runtime": 4687
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 54,
+            "partitions": [
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50722
+                },
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51702
+                }
+            ],
+            "read": 429,
+            "write": 952
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 87,
+            "parallelRuntime": 2452
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 1503,
+            "runtime": 4691
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 84,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25572
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 28151
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26894
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 27130
+                }
+            ],
+            "read": 452,
+            "write": 647
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 305,
+            "parallelRuntime": 1237
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 1503,
+            "runtime": 4700
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 110,
+            "partitions": [
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13881
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12761
+                },
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12865
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14881
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14657
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13120
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 17808
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12941
+                }
+            ],
+            "read": 421,
+            "write": 733
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 431,
+            "parallelRuntime": 650
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 1503,
+            "runtime": 4731
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 140,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6536
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6849
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7420
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9468
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7121
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6399
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 8401
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7393
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6689
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6463
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 12827
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7724
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8000
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7055
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7143
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 9791
+                }
+            ],
+            "read": 453,
+            "write": 965
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 801,
+            "parallelRuntime": 371
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 114,
+            "runtime": 4723
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 54,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51702
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50722
+                }
+            ],
+            "read": 407,
+            "write": 947
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 10,
+            "parallelRuntime": 2466
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 114,
+            "runtime": 4691
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 81,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25572
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 28151
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 27130
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26894
+                }
+            ],
+            "read": 444,
+            "write": 618
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 30,
+            "parallelRuntime": 1239
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 114,
+            "runtime": 4790
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 109,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12865
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14881
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12761
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13881
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14657
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 17808
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13120
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12941
+                }
+            ],
+            "read": 691,
+            "write": 895
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 49,
+            "parallelRuntime": 646
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 114,
+            "runtime": 4724
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 139,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6536
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9468
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6849
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7420
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7121
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6399
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 8401
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7393
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6689
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6463
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 12827
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7724
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8000
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7055
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7143
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 9791
+                }
+            ],
+            "read": 405,
+            "write": 923
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 98,
+            "parallelRuntime": 369
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 11,
+            "runtime": 4778
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 57,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51702
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50722
+                }
+            ],
+            "read": 437,
+            "write": 944
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 0,
+            "parallelRuntime": 2444
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 11,
+            "runtime": 4700
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 80,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25572
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 27130
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 28151
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 26894
+                }
+            ],
+            "read": 461,
+            "write": 698
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 7,
+            "parallelRuntime": 1259
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 11,
+            "runtime": 4732
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 109,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12865
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 13881
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 12761
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 14881
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14657
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 17808
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13120
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12941
+                }
+            ],
+            "read": 401,
+            "write": 731
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 7,
+            "parallelRuntime": 645
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 11,
+            "runtime": 4702
+        },
+        "eps": 5000.0,
+        "inputSplit": {
+            "gen": 139,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6536
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7420
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 6849
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9468
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7121
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6399
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 8401
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7393
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6689
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6463
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7724
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 12827
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8000
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7055
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7143
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 9791
+                }
+            ],
+            "read": 529,
+            "write": 1001
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 12,
+            "parallelRuntime": 382
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5742
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 51,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51790
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50895
+                }
+            ],
+            "read": 593,
+            "write": 991
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 9530,
+            "parallelRuntime": 3004
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5680
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 81,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25613
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 27129
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 28373
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 27286
+                }
+            ],
+            "read": 449,
+            "write": 682
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 34680,
+            "parallelRuntime": 1497
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5689
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 107,
+            "partitions": [
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 14627
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 13171
+                },
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12937
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 15022
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13192
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14819
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 18179
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12951
+                }
+            ],
+            "read": 446,
+            "write": 746
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 49502,
+            "parallelRuntime": 780
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5807
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 137,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6559
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7755
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 7045
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9622
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7203
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6852
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 9060
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7449
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6763
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6499
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7760
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 13535
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8130
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7098
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7184
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 10261
+                }
+            ],
+            "read": 431,
+            "write": 1041
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 96659,
+            "parallelRuntime": 455
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5692
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 51,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51790
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50895
+                }
+            ],
+            "read": 459,
+            "write": 1134
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 9528,
+            "parallelRuntime": 2968
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5750
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 80,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25613
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 27129
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 28373
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 27286
+                }
+            ],
+            "read": 419,
+            "write": 749
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 34664,
+            "parallelRuntime": 1504
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5707
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 111,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12937
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 15022
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 14627
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 13171
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14819
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13192
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 18179
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12951
+                }
+            ],
+            "read": 431,
+            "write": 723
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 49481,
+            "parallelRuntime": 797
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5762
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 139,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6559
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7755
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 7045
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9622
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6852
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7203
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 9060
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7449
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6763
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6499
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7760
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 13535
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8130
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7098
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7184
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 10261
+                }
+            ],
+            "read": 439,
+            "write": 990
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 96619,
+            "parallelRuntime": 460
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5777
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 52,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51790
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50895
+                }
+            ],
+            "read": 467,
+            "write": 943
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 9369,
+            "parallelRuntime": 2988
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5698
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 85,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25613
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 27286
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 28373
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 27129
+                }
+            ],
+            "read": 425,
+            "write": 708
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 34070,
+            "parallelRuntime": 1496
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5727
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 108,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12937
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 14627
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 13171
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 15022
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13192
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14819
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 18179
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12951
+                }
+            ],
+            "read": 446,
+            "write": 784
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 48467,
+            "parallelRuntime": 835
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5729
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 141,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6559
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7755
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 7045
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9622
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7203
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 9060
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6852
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7449
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6499
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6763
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 13535
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7760
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7098
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8130
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7184
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 10261
+                }
+            ],
+            "read": 441,
+            "write": 907
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 94657,
+            "parallelRuntime": 459
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5732
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 52,
+            "partitions": [
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 50895
+                },
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51790
+                }
+            ],
+            "read": 443,
+            "write": 970
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 8758,
+            "parallelRuntime": 3010
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5845
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 100,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25613
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 28373
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 27286
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 27129
+                }
+            ],
+            "read": 452,
+            "write": 813
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 31839,
+            "parallelRuntime": 1483
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5677
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 113,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12937
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 13171
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 14627
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 15022
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14819
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13192
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 18179
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 12951
+                }
+            ],
+            "read": 443,
+            "write": 865
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 45225,
+            "parallelRuntime": 782
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 5681
+        },
+        "eps": 10000.0,
+        "inputSplit": {
+            "gen": 141,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6559
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 9622
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 7755
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 7045
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7203
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 6852
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 9060
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 7449
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6499
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6763
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 7760
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 13535
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8130
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7098
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7184
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 10261
+                }
+            ],
+            "read": 472,
+            "write": 949
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 88421,
+            "parallelRuntime": 530
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6487
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 54,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51939
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 51754
+                }
+            ],
+            "read": 414,
+            "write": 1042
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 65990,
+            "parallelRuntime": 3373
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6380
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 83,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25656
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 28825
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 29831
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 27965
+                }
+            ],
+            "read": 408,
+            "write": 725
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 234035,
+            "parallelRuntime": 1704
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6517
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 109,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12962
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 17467
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 14527
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 16366
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13437
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14978
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13059
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 18966
+                }
+            ],
+            "read": 422,
+            "write": 937
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 336614,
+            "parallelRuntime": 913
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6401
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 137,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6746
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 11148
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 7611
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 9328
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7290
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 7803
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 11223
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 8076
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6774
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6802
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 8149
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 13978
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8305
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7147
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7661
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 12599
+                }
+            ],
+            "read": 489,
+            "write": 1177
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 653893,
+            "parallelRuntime": 694
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6392
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 56,
+            "partitions": [
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 51754
+                },
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51939
+                }
+            ],
+            "read": 431,
+            "write": 1004
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 65990,
+            "parallelRuntime": 3366
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6491
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 81,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25656
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 27965
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 28825
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 29831
+                }
+            ],
+            "read": 431,
+            "write": 735
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 234035,
+            "parallelRuntime": 1736
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6384
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 110,
+            "partitions": [
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 17467
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 14527
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 16366
+                },
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12962
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13437
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14978
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13059
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 18966
+                }
+            ],
+            "read": 425,
+            "write": 820
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 336614,
+            "parallelRuntime": 1113
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6435
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 140,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6746
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 7611
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 11148
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 9328
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7290
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 7803
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 11223
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 8076
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6802
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6774
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 8149
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 13978
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7147
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8305
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7661
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 12599
+                }
+            ],
+            "read": 411,
+            "write": 1032
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 653893,
+            "parallelRuntime": 724
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6439
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 51,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51939
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 51754
+                }
+            ],
+            "read": 453,
+            "write": 1637
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 65990,
+            "parallelRuntime": 3407
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6369
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 83,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25656
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 27965
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 29831
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 28825
+                }
+            ],
+            "read": 421,
+            "write": 660
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 234035,
+            "parallelRuntime": 1693
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6382
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 108,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12962
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 16366
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 14527
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 17467
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13437
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14978
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13059
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 18966
+                }
+            ],
+            "read": 439,
+            "write": 806
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 336614,
+            "parallelRuntime": 929
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6399
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 139,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6746
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 7611
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 11148
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 9328
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7290
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 7803
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 11223
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 8076
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6802
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6774
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 8149
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7147
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 13978
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8305
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7661
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 12599
+                }
+            ],
+            "read": 428,
+            "write": 1149
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 653893,
+            "parallelRuntime": 523
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6361
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 53,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 51939
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 51754
+                }
+            ],
+            "read": 419,
+            "write": 1006
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 65990,
+            "parallelRuntime": 3404
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6391
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 79,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25656
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 28825
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 29831
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 27965
+                }
+            ],
+            "read": 456,
+            "write": 701
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 234035,
+            "parallelRuntime": 1670
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6361
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 108,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 12962
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 16366
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 17467
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 14527
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13437
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 14978
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13059
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 18966
+                }
+            ],
+            "read": 404,
+            "write": 843
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 336614,
+            "parallelRuntime": 930
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 1006,
+            "runtime": 6378
+        },
+        "eps": 20000.0,
+        "inputSplit": {
+            "gen": 140,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 6746
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 9328
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 7611
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 11148
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 7290
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 7803
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 11223
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 8076
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 6802
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 6774
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 8149
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 13978
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7147
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 8305
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 7661
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 12599
+                }
+            ],
+            "read": 434,
+            "write": 1037
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 653893,
+            "parallelRuntime": 744
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6764
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 54,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 53269
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 52811
+                }
+            ],
+            "read": 439,
+            "write": 1133
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 99073,
+            "parallelRuntime": 3585
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6750
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 80,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25977
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 32292
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 33101
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 30056
+                }
+            ],
+            "read": 425,
+            "write": 872
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 351149,
+            "parallelRuntime": 1780
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6742
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 109,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 13423
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 19826
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 15745
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 20414
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13994
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 16471
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13424
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 23281
+                }
+            ],
+            "read": 453,
+            "write": 1109
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 505424,
+            "parallelRuntime": 1022
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6770
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 142,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 7106
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 11682
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 8837
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 15480
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 8080
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 8357
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 14086
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 10309
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 7411
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 7088
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 9635
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 19871
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7568
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 9902
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 8726
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 17021
+                }
+            ],
+            "read": 417,
+            "write": 1336
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 979702,
+            "parallelRuntime": 825
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6763
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 51,
+            "partitions": [
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 52811
+                },
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 53269
+                }
+            ],
+            "read": 455,
+            "write": 1016
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 99073,
+            "parallelRuntime": 3591
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6723
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 79,
+            "partitions": [
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 33101
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 30056
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 32292
+                },
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25977
+                }
+            ],
+            "read": 422,
+            "write": 709
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 351149,
+            "parallelRuntime": 1795
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6737
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 112,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 13423
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 19826
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 20414
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 15745
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13994
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 16471
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13424
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 23281
+                }
+            ],
+            "read": 438,
+            "write": 1066
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 505424,
+            "parallelRuntime": 994
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6826
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 135,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 7106
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 8837
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 11682
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 15480
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 8080
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 8357
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 14086
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 10309
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 7411
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 7088
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 9635
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7568
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 9902
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 19871
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 8726
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 17021
+                }
+            ],
+            "read": 460,
+            "write": 1330
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 979702,
+            "parallelRuntime": 826
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6828
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 53,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 53269
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 52811
+                }
+            ],
+            "read": 433,
+            "write": 986
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 99073,
+            "parallelRuntime": 3583
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6753
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 80,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25977
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 32292
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 33101
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 30056
+                }
+            ],
+            "read": 459,
+            "write": 759
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 351149,
+            "parallelRuntime": 1810
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6807
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 108,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 13423
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 19826
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 15745
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 20414
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13994
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 16471
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13424
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 23281
+                }
+            ],
+            "read": 412,
+            "write": 1039
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 505424,
+            "parallelRuntime": 1009
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6738
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 138,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 7106
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 11682
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 8837
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 15480
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 8080
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 8357
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 14086
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 10309
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 7411
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 7088
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 9902
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7568
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 19871
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 9635
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 8726
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 17021
+                }
+            ],
+            "read": 409,
+            "write": 1550
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 979702,
+            "parallelRuntime": 1015
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6736
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 53,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 53269
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 52811
+                }
+            ],
+            "read": 432,
+            "write": 963
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 99073,
+            "parallelRuntime": 3741
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6747
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 81,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 25977
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 32292
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 33101
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 30056
+                }
+            ],
+            "read": 521,
+            "write": 781
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 351149,
+            "parallelRuntime": 1806
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6791
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 111,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 13423
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 15745
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 20414
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 19826
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 13994
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 16471
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13424
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 23281
+                }
+            ],
+            "read": 493,
+            "write": 936
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 505424,
+            "parallelRuntime": 1008
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 993,
+            "runtime": 6722
+        },
+        "eps": 50000.0,
+        "inputSplit": {
+            "gen": 137,
+            "partitions": [
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 11682
+                },
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 7106
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 8837
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 15480
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 8080
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 8357
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 14086
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 10309
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 7411
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 7088
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7568
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 9635
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 9902
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 19871
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 8726
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 17021
+                }
+            ],
+            "read": 402,
+            "write": 1354
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 979702,
+            "parallelRuntime": 876
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6820
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 53,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 53670
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 53459
+                }
+            ],
+            "read": 450,
+            "write": 1069
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 99346,
+            "parallelRuntime": 3597
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6832
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 82,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 26108
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 31281
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 34620
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 34756
+                }
+            ],
+            "read": 446,
+            "write": 893
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 352283,
+            "parallelRuntime": 2066
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6877
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 110,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 13565
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 25172
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 21559
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 17701
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 14315
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 16934
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13541
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 24791
+                }
+            ],
+            "read": 450,
+            "write": 1046
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 506603,
+            "parallelRuntime": 1031
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6811
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 138,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 7331
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 17623
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 13844
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 9935
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 8230
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 9856
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 18614
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 8159
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 12170
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 7303
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7842
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 10036
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 10648
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 21576
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 9370
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 20539
+                }
+            ],
+            "read": 442,
+            "write": 1653
+        },
+        "minPts": 3,
+        "multiNode": {
+            "foreignEdges": 981178,
+            "parallelRuntime": 889
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6817
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 52,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 53670
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 53459
+                }
+            ],
+            "read": 455,
+            "write": 953
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 99346,
+            "parallelRuntime": 3605
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6813
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 81,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 26108
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 34756
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 34620
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 31281
+                }
+            ],
+            "read": 443,
+            "write": 897
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 352283,
+            "parallelRuntime": 1807
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6822
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 109,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 13565
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 17701
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 25172
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 21559
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 14315
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 16934
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13541
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 24791
+                }
+            ],
+            "read": 414,
+            "write": 1029
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 506603,
+            "parallelRuntime": 1131
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6841
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 140,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 7331
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 9935
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 13844
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 17623
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 8230
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 9856
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 18614
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 8159
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 12170
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 7303
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7842
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 10036
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 10648
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 21576
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 9370
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 20539
+                }
+            ],
+            "read": 421,
+            "write": 2004
+        },
+        "minPts": 5,
+        "multiNode": {
+            "foreignEdges": 981178,
+            "parallelRuntime": 897
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6857
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 52,
+            "partitions": [
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 53459
+                },
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 53670
+                }
+            ],
+            "read": 437,
+            "write": 1040
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 99346,
+            "parallelRuntime": 3596
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6868
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 81,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 26108
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 34756
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 31281
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 34620
+                }
+            ],
+            "read": 426,
+            "write": 828
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 352283,
+            "parallelRuntime": 1845
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6860
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 109,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 13565
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 25172
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 21559
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 17701
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 14315
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 16934
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13541
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 24791
+                }
+            ],
+            "read": 455,
+            "write": 1061
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 506603,
+            "parallelRuntime": 1025
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6825
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 140,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 7331
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 13844
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 17623
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 9935
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 8230
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 9856
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 18614
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 8159
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 12170
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 7303
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7842
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 10036
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 10648
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 21576
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 9370
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 20539
+                }
+            ],
+            "read": 437,
+            "write": 1611
+        },
+        "minPts": 8,
+        "multiNode": {
+            "foreignEdges": 981178,
+            "parallelRuntime": 799
+        },
+        "noMachines": 16
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6817
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 52,
+            "partitions": [
+                {
+                    "noPoints": 49985,
+                    "partitionIdx": 0,
+                    "totalPoints": 53670
+                },
+                {
+                    "noPoints": 50015,
+                    "partitionIdx": 1,
+                    "totalPoints": 53459
+                }
+            ],
+            "read": 458,
+            "write": 1021
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 99346,
+            "parallelRuntime": 3612
+        },
+        "noMachines": 2
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6831
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 82,
+            "partitions": [
+                {
+                    "noPoints": 24992,
+                    "partitionIdx": 0,
+                    "totalPoints": 26108
+                },
+                {
+                    "noPoints": 24957,
+                    "partitionIdx": 2,
+                    "totalPoints": 34620
+                },
+                {
+                    "noPoints": 25058,
+                    "partitionIdx": 3,
+                    "totalPoints": 34756
+                },
+                {
+                    "noPoints": 24993,
+                    "partitionIdx": 1,
+                    "totalPoints": 31281
+                }
+            ],
+            "read": 420,
+            "write": 816
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 352283,
+            "parallelRuntime": 1907
+        },
+        "noMachines": 4
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6837
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 113,
+            "partitions": [
+                {
+                    "noPoints": 12495,
+                    "partitionIdx": 0,
+                    "totalPoints": 13565
+                },
+                {
+                    "noPoints": 12468,
+                    "partitionIdx": 4,
+                    "totalPoints": 25172
+                },
+                {
+                    "noPoints": 12492,
+                    "partitionIdx": 2,
+                    "totalPoints": 17701
+                },
+                {
+                    "noPoints": 12524,
+                    "partitionIdx": 6,
+                    "totalPoints": 21559
+                },
+                {
+                    "noPoints": 12497,
+                    "partitionIdx": 1,
+                    "totalPoints": 14315
+                },
+                {
+                    "noPoints": 12501,
+                    "partitionIdx": 3,
+                    "totalPoints": 16934
+                },
+                {
+                    "noPoints": 12534,
+                    "partitionIdx": 7,
+                    "totalPoints": 13541
+                },
+                {
+                    "noPoints": 12489,
+                    "partitionIdx": 5,
+                    "totalPoints": 24791
+                }
+            ],
+            "read": 450,
+            "write": 1100
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 506603,
+            "parallelRuntime": 1223
+        },
+        "noMachines": 8
+    },
+    {
+        "brute": {
+            "clusters": 979,
+            "runtime": 6878
+        },
+        "eps": 100000.0,
+        "inputSplit": {
+            "gen": 138,
+            "partitions": [
+                {
+                    "noPoints": 6236,
+                    "partitionIdx": 0,
+                    "totalPoints": 7331
+                },
+                {
+                    "noPoints": 6218,
+                    "partitionIdx": 8,
+                    "totalPoints": 13844
+                },
+                {
+                    "noPoints": 6237,
+                    "partitionIdx": 12,
+                    "totalPoints": 17623
+                },
+                {
+                    "noPoints": 6244,
+                    "partitionIdx": 4,
+                    "totalPoints": 9935
+                },
+                {
+                    "noPoints": 6259,
+                    "partitionIdx": 1,
+                    "totalPoints": 8230
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 5,
+                    "totalPoints": 9856
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 9,
+                    "totalPoints": 18614
+                },
+                {
+                    "noPoints": 6248,
+                    "partitionIdx": 2,
+                    "totalPoints": 8159
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 13,
+                    "totalPoints": 12170
+                },
+                {
+                    "noPoints": 6250,
+                    "partitionIdx": 6,
+                    "totalPoints": 7303
+                },
+                {
+                    "noPoints": 6249,
+                    "partitionIdx": 3,
+                    "totalPoints": 7842
+                },
+                {
+                    "noPoints": 6251,
+                    "partitionIdx": 7,
+                    "totalPoints": 10036
+                },
+                {
+                    "noPoints": 6260,
+                    "partitionIdx": 14,
+                    "totalPoints": 10648
+                },
+                {
+                    "noPoints": 6202,
+                    "partitionIdx": 10,
+                    "totalPoints": 21576
+                },
+                {
+                    "noPoints": 6274,
+                    "partitionIdx": 15,
+                    "totalPoints": 9370
+                },
+                {
+                    "noPoints": 6287,
+                    "partitionIdx": 11,
+                    "totalPoints": 20539
+                }
+            ],
+            "read": 425,
+            "write": 1928
+        },
+        "minPts": 10,
+        "multiNode": {
+            "foreignEdges": 981178,
+            "parallelRuntime": 835
+        },
+        "noMachines": 16
+    }
+]

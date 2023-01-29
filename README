@@ -1,0 +1,5 @@
+scriptMultiNode.py generates measurements which are further processed by scriptPlots.py.
+
+Run scriptPlots.py to generate the desired graphs (decommenting the right lines of code)
+
+We removed the original folder, since it contained over 500MB of figures
